@@ -43,8 +43,7 @@ main.geometry('500x600')
 file=PhotoImage(file ='download2.png')
 
 
-class Lable(main,image):
-    pass
+
 
 
 headingIcon=Lable(main,image='file')
